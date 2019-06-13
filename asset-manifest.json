@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kursy-kryptowalut/static/css/main.f06945fc.chunk.css",
+    "main.js": "/kursy-kryptowalut/static/js/main.0349fc05.chunk.js",
+    "main.js.map": "/kursy-kryptowalut/static/js/main.0349fc05.chunk.js.map",
+    "runtime~main.js": "/kursy-kryptowalut/static/js/runtime~main.4cfae9e2.js",
+    "runtime~main.js.map": "/kursy-kryptowalut/static/js/runtime~main.4cfae9e2.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/kursy-kryptowalut/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/kursy-kryptowalut/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/kursy-kryptowalut/index.html",
+    "precache-manifest.2161718de84ecc2ba7aafde510498402.js": "/kursy-kryptowalut/precache-manifest.2161718de84ecc2ba7aafde510498402.js",
+    "service-worker.js": "/kursy-kryptowalut/service-worker.js",
+    "static/css/main.f06945fc.chunk.css.map": "/kursy-kryptowalut/static/css/main.f06945fc.chunk.css.map"
+  }
+}
