@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/kursy-kryptowalut/precache-manifest.2161718de84ecc2ba7aafde510498402.js"
+  "/kursy-kryptowalut/precache-manifest.6bc0f23064dbd80bb137193bad939fc1.js"
 );
 
 self.addEventListener('message', (event) => {
